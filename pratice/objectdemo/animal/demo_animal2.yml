@@ -1,0 +1,15 @@
+Cat: &data1
+  hair: "短发"
+  name: "波斯猫 "
+  colour: "白色"
+  age: "4"
+  gender: "母"
+  hmicecatching: "抓老鼠"
+
+dog: &data2
+  hair: "金色"
+  name: "金毛"
+  colour: "黄色"
+  age: "5"
+  gender: "公"
+  housekeeping: "会看家"
